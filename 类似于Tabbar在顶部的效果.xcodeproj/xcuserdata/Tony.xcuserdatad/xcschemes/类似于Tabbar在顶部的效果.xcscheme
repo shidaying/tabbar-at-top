@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0510"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "EAC54A1B18FD8F3300D70E26"
+               BuildableName = "&#x7c7b;&#x4f3c;&#x4e8e;Tabbar&#x5728;&#x9876;&#x90e8;&#x7684;&#x6548;&#x679c;.app"
+               BlueprintName = "&#x7c7b;&#x4f3c;&#x4e8e;Tabbar&#x5728;&#x9876;&#x90e8;&#x7684;&#x6548;&#x679c;"
+               ReferencedContainer = "container:&#x7c7b;&#x4f3c;&#x4e8e;Tabbar&#x5728;&#x9876;&#x90e8;&#x7684;&#x6548;&#x679c;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "EAC54A3F18FD8F3400D70E26"
+               BuildableName = "&#x7c7b;&#x4f3c;&#x4e8e;Tabbar&#x5728;&#x9876;&#x90e8;&#x7684;&#x6548;&#x679c;Tests.xctest"
+               BlueprintName = "&#x7c7b;&#x4f3c;&#x4e8e;Tabbar&#x5728;&#x9876;&#x90e8;&#x7684;&#x6548;&#x679c;Tests"
+               ReferencedContainer = "container:&#x7c7b;&#x4f3c;&#x4e8e;Tabbar&#x5728;&#x9876;&#x90e8;&#x7684;&#x6548;&#x679c;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "EAC54A1B18FD8F3300D70E26"
+            BuildableName = "&#x7c7b;&#x4f3c;&#x4e8e;Tabbar&#x5728;&#x9876;&#x90e8;&#x7684;&#x6548;&#x679c;.app"
+            BlueprintName = "&#x7c7b;&#x4f3c;&#x4e8e;Tabbar&#x5728;&#x9876;&#x90e8;&#x7684;&#x6548;&#x679c;"
+            ReferencedContainer = "container:&#x7c7b;&#x4f3c;&#x4e8e;Tabbar&#x5728;&#x9876;&#x90e8;&#x7684;&#x6548;&#x679c;.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "EAC54A1B18FD8F3300D70E26"
+            BuildableName = "&#x7c7b;&#x4f3c;&#x4e8e;Tabbar&#x5728;&#x9876;&#x90e8;&#x7684;&#x6548;&#x679c;.app"
+            BlueprintName = "&#x7c7b;&#x4f3c;&#x4e8e;Tabbar&#x5728;&#x9876;&#x90e8;&#x7684;&#x6548;&#x679c;"
+            ReferencedContainer = "container:&#x7c7b;&#x4f3c;&#x4e8e;Tabbar&#x5728;&#x9876;&#x90e8;&#x7684;&#x6548;&#x679c;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "EAC54A1B18FD8F3300D70E26"
+            BuildableName = "&#x7c7b;&#x4f3c;&#x4e8e;Tabbar&#x5728;&#x9876;&#x90e8;&#x7684;&#x6548;&#x679c;.app"
+            BlueprintName = "&#x7c7b;&#x4f3c;&#x4e8e;Tabbar&#x5728;&#x9876;&#x90e8;&#x7684;&#x6548;&#x679c;"
+            ReferencedContainer = "container:&#x7c7b;&#x4f3c;&#x4e8e;Tabbar&#x5728;&#x9876;&#x90e8;&#x7684;&#x6548;&#x679c;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
